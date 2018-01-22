@@ -1,3 +1,96 @@
-h1{
+h1,h4{
     text-align: center;
+    font-weight: bold !important;
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: "Times New Roman" !important;
+    background-color: floralwhite !important;
+}
+.navbar .navbar-nav {
+    display: inline-block;
+    float: none!important;
+    vertical-align: top;}
+td{
+    padding: 0!important;
+}
+div{
+
+    padding: 0!important;
+    margin-top: 0!important;
+}
+#resizable { background-position: top left; min-height: 1170px; }
+#resizable, #also {  }
+#resizable h3, #also h3 { text-align: center; margin: 0; }
+#also { margin-top: 1em;width: 827px!important;min-height: 1170px;}
+span{
+    color:#666666;
+}
+.sinscrire{
+    max-width: 400px;
+}
+.asterisk{
+    color: red;
+}
+.container{
+    padding-left: 20px!important;
+    padding-right: 20px!important;
+
+}
+.cv{
+    padding: 73px!important;
+
+}
+#wrapper{
+    margin: 40px auto !important;
+    border:1px lightgrey solid;
+    max-width: 840px;
+    background-color: white;
+}
+hr{
+    margin: 2px!important;
+    border-top:1px solid black;
+}
+p{
+    margin: 0!important;
+}
+h1,h2,h3,h4{
+    text-align: center!important;
+    font-weight: bold;
+}
+body{
+    font-family: "Times New Roman", Times, serif;
+}
+.paragraf p{
+    padding-left: 25px;
+}
+.nopadding{
+    padding: 0!important;
+}
+.alignRight{
+    text-align: right;
+}
+.footer li{
+
+    padding: 10px;
+}
+.footer li:first-child{
+    border-right: 2px solid #ccc;
+}
+.hrbold{
+    border-top:2px solid #ccc;
+}
+.error{
+    padding-top: -15px!important;
+    color:crimson!important;
+    font-size: 15px;
+}
+.green{
+    color:green;
+}
+.orange{
+    color: orange;
 }
